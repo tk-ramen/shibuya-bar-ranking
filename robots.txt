@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tk-ramen.github.io/shibuya-bar-ranking/sitemap.xml
